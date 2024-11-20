@@ -1,2 +1,2 @@
 # delta
-thi is delta batch
+thi is delta batch.
